@@ -58,6 +58,14 @@ python -m pytest -q
 └── requirements.txt
 ```
 
+## Evidence and documentation
+
+- [KPI definitions](docs/kpi-definitions.md)
+- [Major incident lifecycle](docs/major-incident-lifecycle.md)
+- [Sample analysis](docs/sample-analysis.md)
+- [Synthetic incident dataset](data/incidents.csv)
+- [Metric calculation code](dashboard/metrics.py)
+
 ## Skills demonstrated
 
 **Major Incident Management · ITSM · Service Operations · Python · Pandas · Streamlit · KPI Design · Operational Reporting**
