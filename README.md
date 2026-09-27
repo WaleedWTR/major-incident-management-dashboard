@@ -1,5 +1,7 @@
 # Major Incident Management Dashboard
 
+![Dashboard tests](https://github.com/WaleedWTR/major-incident-management-dashboard/actions/workflows/tests.yml/badge.svg)
+
 A sanitised service-operations portfolio project that turns major-incident records into measurable operational insight.
 
 > **Provenance:** This repository is a public reconstruction informed by real major-incident management and operational dashboard experience. The dataset is entirely synthetic and contains no employer or production information.
